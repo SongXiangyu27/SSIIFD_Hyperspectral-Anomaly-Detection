@@ -7,9 +7,12 @@ Spectral-Spatial Anomaly Detection of Hyperspectral Data Based on Improved Isola
 IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2021.3104998., Aug. 2021.
 
 Note that: 
+
 (1)the demo_ global _IIFD.m is a basic demo of using the proposed improved isolation forest detector for
 anomaly detection in spectral-domain of original HSI data without pre-segmentation or any other preprocessing. 
+
 (2)the demo_ local _IIFD.m is a demo of using IIFD for anomaly detection in spectral-domain with an ERS-based segmentation preprocessing
+
 (3)the demo_SSIIFD.m is a demo of using improved isolation forest-based spectral-spatial anomaly detection framework for anomaly detection 
 in both spectral and spatial domains
 

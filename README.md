@@ -1,4 +1,5 @@
 # SSIIFD
+# Spectral-Spatial Anomaly Detection of Hyperspectral Data Based on Improved Isolation Forest
 This is a code set for hyperpsectral anomaly detection including the RX, PTA, CRD, iForest, SSIIFD, MFIFD etc.
 The set of files contains the Matlab code for AD experiments in the following paper:
 
